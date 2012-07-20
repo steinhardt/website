@@ -1,0 +1,30 @@
+/* cities (e.g. body, div) */
+body { background-color: #f9f9f9; color: #222; }
+div#page { width: 640px; margin: 70px auto 100px auto; }
+div#header { height: 100px; background: url(images/header.png) no-repeat; }
+div#container { padding: 24px; clear: both; }
+div#header, div#container { border: 1px solid #ddd; margin-bottom: 13px; }
+nav ul li { float: left; display: inline; list-style: none; margin: 0 10px 20px 0; }
+
+
+/* towns (e.g. img, p) */
+img.thumb-left { float: left; margin: 0 0 15px 15px; padding: 5px; margin: 8px 13px 8px 0; border: 1px solid #ddd; }
+img.thumb-right { float: right; margin: 0 15px 15px 0; padding: 5px; margin: 8px 0 8px 13px; border: 1px solid #ddd; }
+p { font-family: 'Palatino Linotype', serif; font-size: 11pt; margin: 0 0 9px 0; text-align: justify; }
+p#tagline { font-family: 'Arial', sans-serif; font-size: 8pt; margin: 21px 0 0 0; text-align: center; color: #787878; }
+
+
+/* villages (e.g. a, h1, h2, span ) */
+a { color: #318ce7; border-bottom: 1px #318ce7 dashed; text-decoration: none; }
+h1 { font-family: 'Arial', sans-serif; font-size: 14pt; font-weight: bold; margin: 16px 0 4px 0; }
+span.nsfw { background-color: #b22222; color: #fff; padding: 0 2px 0 2px; font-size: 9pt; }
+
+
+/* houses in the middle of nowhere */
+.clear { clear: both; }
+
+
+/* redundant declarations - FIXME REMOVE THESE! */
+/* p#where { font-family: 'Arial', sans-serif; font-size: 10pt; text-align: left; font-weight: bold; }	*/
+/* span.ref { font-style: italic; color: #787878; } */
+/* span.where { font-style: italic; font-weight: bold; } */
