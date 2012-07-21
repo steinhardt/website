@@ -1,4 +1,4 @@
-Welcome to kevinsteinhardt.net! My name is Kevin Steinhardt (as you would expect) and this site is both a portfolio of my recent projects, and a place to find more information about me and what I get up to. Check out the [FAQ](/02-faq)!
+Welcome to kevinsteinhardt.net! This site is both a portfolio of my recent projects, and a place to find more information about me and what I get up to. Check out the [FAQ](/02-faq)!
 
 You can find me online in *quite a few* places including (but not limited to): [Daytum][], [Facebook][], [Flickr][], [Github][], [Google Plus][], [LinkedIn][], [Pinboard][], [Soundcloud][], [Spotify][], [Tumblr][] and [Twitter][].
 
