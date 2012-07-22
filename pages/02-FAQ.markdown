@@ -49,14 +49,14 @@ Yes.
 
 # Your website looks pretty simple.
 
-That's not *actually* a question. This site looks pretty simple because it *is* but also because I wanted a clean, minimalistic design. The backend, however, is what I'm more interested in. Every public page is kept in a Git repository on my computers which is "pushed" to the social coding website [Github][] when edited. My server automatically pulls the content down, which is then made available for the public to read.
+That's not *actually* a question. This site looks pretty simple because it *is* but also because I wanted a clean, minimalistic design. The backend, however, is what I'm more interested in. Every public page on kevinsteinhardt.net is kept in [a repository][GitHub steinhardt/website] on the social coding website GitHub. When I update a page or some code, my server pulls the new content from the repository and updates the files on the website.
 
 The pages themselves are written in a markup language called [Markdown][]. These documents (which are basically plain text with a few symbols added for things like *emphasis* and **bold** type, as well as the ability to link) are then translated into the HTML markup language when someone opens a page. *Even* the tabs along the top are automatically generated from the contents of the `pages/` directory.
 
 I'd like to (again) thank my good friend [Stephen Radford][] for helping me out with the code&iuml;ng of this site.
 
 
-[Github]: https://github.com/steinhardt/website
+[GitHub steinhardt/website]: https://github.com/steinhardt/website
 [Markdown]: http://en.wikipedia.org/wiki/Markdown
 [Stephen Radford]: http://www.stephenradford.me/
 

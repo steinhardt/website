@@ -1,12 +1,12 @@
 Welcome to kevinsteinhardt.net! This site is both a portfolio of my recent projects, and a place to find more information about me and what I get up to.
 
-You can find me online in *quite a few* places including (but not limited to): [Daytum][], [Facebook][], [Flickr][], [Github][], [Google Plus][], [LinkedIn][], [Pinboard][], [Soundcloud][], [Spotify][], [Tumblr][] and [Twitter][].
+You can find me online in *quite a few* places including (but not limited to): [Daytum][], [Facebook][], [Flickr][], [GitHub][], [Google Plus][], [LinkedIn][], [Pinboard][], [Soundcloud][], [Spotify][], [Tumblr][] and [Twitter][].
 
 
 [Daytum]: http://daytum.com/steinhardt
 [Facebook]: https://www.facebook.com/kevinsteinhardt
 [Flickr]: http://www.flickr.com/photos/kevinsteinhardt
-[Github]: https://github.com/steinhardt
+[GitHub]: https://github.com/steinhardt
 [Google Plus]: https://plus.google.com/106171994730499817881
 [LinkedIn]: http://www.linkedin.com/in/kevinsteinhardt
 [Pinboard]: http://pinboard.in/u:steinhardt
