@@ -1,4 +1,4 @@
-<img class="thumb-right" src="images/projects/selfportrait.jpg" /> Welcome to kevinsteinhardt.net! This site is both a portfolio of my recent projects, and a place to find more information about me and what I get up to.
+Welcome to kevinsteinhardt.net! This site is both a portfolio of my recent projects, and a place to find more information about me and what I get up to.
 
 You can find me online in *quite a few* places including (but not limited to): [Daytum][], [Facebook][], [Flickr][], [Github][], [Google Plus][], [LinkedIn][], [Pinboard][], [Soundcloud][], [Spotify][], [Tumblr][] and [Twitter][].
 
