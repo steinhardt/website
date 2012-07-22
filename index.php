@@ -5,6 +5,7 @@
 	<meta name="abstract" content="Personal and professional portfolio of Kevin Steinhardt">
 	<meta name="author" content="Kevin Steinhardt">
 	<meta name="copyright" content="Creative Commons Attribution 3.0">
+	<meta name="keywords" content="Kevin Steinhardt, Steinhardt, Netherlands, Haarlem, Amsterdam, Nederland, graphic designer, graficus, radio, broadcasting" />
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<title>Kevin Steinhardt</title>
 	<script type="text/javascript">
