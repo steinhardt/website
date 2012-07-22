@@ -22,10 +22,11 @@ There *used* to be both an 'About' and a 'Kevin' page - the latter of which was 
 
 # How did you come to be in the Netherlands?
 
-I've written a blog post answering this question before - you can find the post [here][blogpost]. I wanted to experience the *far superior* cycle infrastructure in the Netherlands, and managed to secure an internship at a Dutch radio station through my radio journalism course at college. I secured a full-time job (though not in radio) and ended up moving over from the UK.
+I've written [a blog post][How I ended up here] answering this question before, which is more detailed than the summary I've written for this site.
 
+I was studying radio at [Cambridge Regional College][CRC] and, being an avid cyclist, I wanted to experience the *far superior* cycle infrastructure in the Netherlands; Cambridge may be the cycling capital of the UK but it's far from perfect. Through my course, I managed to secure an internship at the Dutch international service [RNW][] (which has sadly been pretty much closed down since). My bike broke during the second or third week, and I ended up leaving it in the Netherlands which gave me a reason to go back a week later. Then things get complicated so head over to [this post][How I ended up here] to find out what happened next.
 
-[blogpost]: http://ksteinhardt.wordpress.com/2012/04/08/the-netherlands-and-how-i-ended-up-here/
+[How I ended up here]: http://ksteinhardt.wordpress.com/2012/04/08/the-netherlands-and-how-i-ended-up-here/
 
 
 # What technical experience do you have?
@@ -40,19 +41,23 @@ Well I've been a Mac and Linux user since 2005, which has to count towards somet
 [Exact Globe]: http://en.wikipedia.org/w/index.php?title=Exact_Holding&oldid=491378541
 
 
-<!-- # Can you actually speak Dutch?
+# Can you actually speak Dutch?
 
-Natuurlijk.  FIXME TRANSLATE BELOW:
-Of course! Brits don't have a good reputation for learning other languages, so to find a Englishman that *actually* speak two languages is a little weird. But I live in the Netherlands and I plan on staying here, so I might as well learn Dutch. It's no more difficult than English. -->
+Yes.
 
 
 # Your website looks pretty simple.
 
-That's not *actually* a question. This site looks pretty simple because I wanted a clean, minimalistic design. The backend isn't super complicated either; but I write each "page" as a [Markdown][] document which gets transmogrificated into HTML when you click one of the tabs. Also, the tabs themselves are generated from the file names of the Markdown documents. This is made possible with some PHP and, of course, the help of my good friend [Stephen Radford][Stephen].
+That's not *actually* a question. This site looks pretty simple because it *is* but also because I wanted a clean, minimalistic design. The backend, however, is what I'm more interested in. Every public page is kept in a Git repository on my computers which is "pushed" to the social coding website [Github][] when edited. My server automatically pulls the content down, which is then made available for the public to read.
+
+The pages themselves are written in a markup language called [Markdown][]. These documents (which are basically plain text with a few symbols added for things like *emphasis* and **bold** type, as well as the ability to link) are then translated into the HTML markup language when someone opens a page. *Even* the tabs along the top are automatically generated from the contents of the `pages/` directory.
+
+I'd like to (again) thank my good friend [Stephen Radford][] for helping me out with the code&iuml;ng of this site.
 
 
+[Github]: https://github.com/steinhardt/website
 [Markdown]: http://en.wikipedia.org/wiki/Markdown
-[Stephen]: http://www.stephenradford.me/
+[Stephen Radford]: http://www.stephenradford.me/
 
 
 <!-- this is always the LAST question! -->
