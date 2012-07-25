@@ -3,19 +3,6 @@ Welcome to kevinsteinhardt.net! This site is both a portfolio of my recent proje
 You can find me online in *quite a few* places including (but not limited to): [Daytum][], [Facebook][], [Flickr][], [GitHub][], [Google Plus][], [LinkedIn][], [Pinboard][], [Soundcloud][], [Spotify][], [Tumblr][] and [Twitter][].
 
 
-[Daytum]: http://daytum.com/steinhardt
-[Facebook]: https://www.facebook.com/kevinsteinhardt
-[Flickr]: http://www.flickr.com/photos/kevinsteinhardt
-[GitHub]: https://github.com/steinhardt
-[Google Plus]: https://plus.google.com/106171994730499817881
-[LinkedIn]: http://www.linkedin.com/in/kevinsteinhardt
-[Pinboard]: http://pinboard.in/u:steinhardt
-[Soundcloud]: http://soundcloud.com/esquandolas
-[Spotify]: http://open.spotify.com/user/steinhardt
-[Tumblr]: http://esquandolas.tumblr.com
-[Twitter]: https://twitter.com/#!/steinhardt
-
-
 # Current projects
 
 I'm working on a lot at the moment but I don't think of anything that I'm working on as a traditional "project". For me, a project is something like a graphic commission or a podcast (both of which I've done in the past; see below). 
@@ -27,25 +14,11 @@ And, although they're not really *projects* per se, I'm learning both [Dutch][] 
 *Re*learning to touch type, only this time on a [Dvorak keyboard][Dvorak], is another ongoing project of mine. I can't remember what attracted me to the Dvorak layout but *it's certainly geeky* and it's also amusing to watch people struggle to use my computers - *hands off*! I'm progressing quite well with this - but with both my work and home keyboards "converted" (and, as a matter of fact, identical keyboard models), I have noticed a huge speed difference at home: typing at home is actually *slower*, though I think this is down to different desk arrangements more than anything else.
 
 
-[My blog]: http://ksteinhardt.wordpress.com
-[Dvorak]: http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
-[Bash scripting]: http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-[Learning Dutch with newspapers]: http://www.flickr.com/photos/kevinsteinhardt/7434109770/
-[Dutch]: http://en.wikipedia.org/wiki/Dutch_language
-[Perl]: http://en.wikipedia.org/wiki/Perl
-
-
 # Past projects
 
 <!-- FIXME Waffle -->
 
 <a href="http://www.flickr.com/photos/kevinsteinhardt"><img class="thumb-left" src="images/projects/photography.jpg" /></a> Since moving to the Netherlands, I've been taking fewer and fewer photographs *for leisure* but photography is none-the-less a great passion of mine. I'm *far* from being a professional photographer, but I studied photography at college for two years and both my sisters and my father are keen photographers too. I'd like to get back into doing more experimental photography, such as [infrared][], but I don't think this would be practical where I live at the moment.
-
-
-
-[Flickr 2011]: http://www.flickr.com/photos/kevinsteinhardt/tags/portfolio2011/
-[Flickr 2008]: http://www.flickr.com/photos/kevinsteinhardt/tags/portfolio2008/
-[Infrared]: http://en.wikipedia.org/wiki/Infrared_photography
 
 
 # Projects on the back burner
@@ -56,6 +29,26 @@ Just before I came to the Netherlands, I started writing the format documents fo
 <!-- FIXME Is "shortcut" a good word?! -->
 
 
+[My blog]: http://ksteinhardt.wordpress.com
+[Dvorak]: http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
+[Bash scripting]: http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+[Learning Dutch with newspapers]: http://www.flickr.com/photos/kevinsteinhardt/7434109770/
+[Dutch]: http://en.wikipedia.org/wiki/Dutch_language
+[Perl]: http://en.wikipedia.org/wiki/Perl
+[Flickr 2011]: http://www.flickr.com/photos/kevinsteinhardt/tags/portfolio2011/
+[Flickr 2008]: http://www.flickr.com/photos/kevinsteinhardt/tags/portfolio2008/
+[Infrared]: http://en.wikipedia.org/wiki/Infrared_photography
+[Daytum]: http://daytum.com/steinhardt
+[Facebook]: https://www.facebook.com/kevinsteinhardt
+[Flickr]: http://www.flickr.com/photos/kevinsteinhardt
+[GitHub]: https://github.com/steinhardt
+[Google Plus]: https://plus.google.com/106171994730499817881
+[LinkedIn]: http://www.linkedin.com/in/kevinsteinhardt
+[Pinboard]: http://pinboard.in/u:steinhardt
+[Soundcloud]: http://soundcloud.com/esquandolas
+[Spotify]: http://open.spotify.com/user/steinhardt
+[Tumblr]: http://esquandolas.tumblr.com
+[Twitter]: https://twitter.com/#!/steinhardt
 [Random Wikipedia]: http://en.wikipedia.org/wiki/Help:Special_page#Tools
 
 
