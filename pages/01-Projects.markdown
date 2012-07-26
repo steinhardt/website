@@ -31,28 +31,28 @@ Just before I came to the Netherlands, I started writing the format documents fo
 <!-- FIXME Is "shortcut" a good word?! -->
 
 
-[My blog]: http://ksteinhardt.wordpress.com
-[Dvorak]: http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
 [Bash scripting]: http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-[Learning Dutch with newspapers]: http://www.flickr.com/photos/kevinsteinhardt/7434109770/
-[Dutch]: http://en.wikipedia.org/wiki/Dutch_language
-[Perl]: http://en.wikipedia.org/wiki/Perl
-[Flickr 2011]: http://www.flickr.com/photos/kevinsteinhardt/tags/portfolio2011/
-[Flickr 2008]: http://www.flickr.com/photos/kevinsteinhardt/tags/portfolio2008/
-[Infrared]: http://en.wikipedia.org/wiki/Infrared_photography
 [Daytum]: http://daytum.com/steinhardt
+[Dutch]: http://en.wikipedia.org/wiki/Dutch_language
+[Dvorak]: http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
 [Facebook]: https://www.facebook.com/kevinsteinhardt
+[Flickr 2008]: http://www.flickr.com/photos/kevinsteinhardt/tags/portfolio2008/
+[Flickr 2011]: http://www.flickr.com/photos/kevinsteinhardt/tags/portfolio2011/
 [Flickr]: http://www.flickr.com/photos/kevinsteinhardt
 [GitHub]: https://github.com/steinhardt
 [Google Plus]: https://plus.google.com/106171994730499817881
+[Infrared]: http://en.wikipedia.org/wiki/Infrared_photography
+[Learning Dutch with newspapers]: http://www.flickr.com/photos/kevinsteinhardt/7434109770/
 [LinkedIn]: http://www.linkedin.com/in/kevinsteinhardt
 [Mister B]: http://www.misterb.com
+[My blog]: http://ksteinhardt.wordpress.com
+[Perl]: http://en.wikipedia.org/wiki/Perl
 [Pinboard]: http://pinboard.in/u:steinhardt
+[Random Wikipedia]: http://en.wikipedia.org/wiki/Help:Special_page#Tools
 [Soundcloud]: http://soundcloud.com/esquandolas
 [Spotify]: http://open.spotify.com/user/steinhardt
 [Tumblr]: http://esquandolas.tumblr.com
 [Twitter]: https://twitter.com/#!/steinhardt
-[Random Wikipedia]: http://en.wikipedia.org/wiki/Help:Special_page#Tools
 
 
 <!--
