@@ -47,7 +47,6 @@ If you don't want to use Formspring, send me a [tweet][Twitter] via Twitter or e
 [GitHub steinhardt/website]: https://github.com/steinhardt/website
 [Markdown]: http://en.wikipedia.org/wiki/Markdown
 [Stephen Radford]: http://www.stephenradford.me/
-[vim]: http://www.vim.org/
 [Dalet]: http://www.dalet.com/dalet-enterprise-edition
 [Perl]: http://en.wikipedia.org/wiki/Perl
 [XLST]: http://en.wikipedia.org/wiki/XSLT
