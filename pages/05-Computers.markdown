@@ -3,6 +3,18 @@ I have a few computers that I use on a regular basis. I use some computers more 
 I try to keep them in sync with each other too. For example, I keep a single [vimrc file][] in [a repository on GitHub][GitHub steinhardt/vimrc] which each of my computers "subscribes" to. When I make changes to my vimrc, I push the revised file up to GitHub and my other computers download the new version without manual intervention.
 
 
+# Apple iMac `MAHLIKA`
+
+Pronounced *mah-hill-kah*. `MAHLIKA` is the name of my 27-inch [Apple iMac][]. She is what I use for writing, coding and video conferencing with friends. She took over from my 2008 Mac mini (see above) as my primary home computer shortly after I bought her in 2012.
+
+**Manufacturer**: Apple.
+**Make and model**: unknown.[^mactracker] <!-- FIXME CHECK WITH MACTRACKER -->
+**Operating system**: Mac OS X 10.8 "Mountain Lion".
+**Year of manufacturer**: 2012. <!-- FIXME CHECK! -->
+**Clock rate (processor "speed")**: 2,7 GHz.
+**HDD/SDD capacity**: 1 TB.
+
+
 # Apple Mac mini
 
 My Mac mini has been my computing companion since December 2008 and has remained faithful to me to this day. He is my current "media centre" (I *do* hate that phrase) and holds my many, many [Phish][] albums. He doesn't have a name name and I don't think it would appropriate to give him one any time soon, as he's due to be given to my parents (who desperately need a Mac of some variety) by the end of the year.
