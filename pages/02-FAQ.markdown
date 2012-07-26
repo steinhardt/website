@@ -1,17 +1,3 @@
-<!-- FIXME Move this question and answer to 01-Projects.markdown -->
-# Who are you and why did you bring me here?
-
-My name is Kevin Steinhardt. I'm a graphic designer and ex-radio broadcast journalist from Cambridge in the United Kingdom. I studied design and then radio journalism at [Cambridge Regional College][CRC], before moving to the Netherlands in 2011.
-
-At the moment, I work as one of two designers on staff at the fetish wholesale company [Mister B][] {{nsfw}}. I've previously worked at the Dutch international radio station [RNW][] too. You can find my professional "profile" on [LinkedIn][].
-
-
-[CRC]: http://en.wikipedia.org/wiki/Cambridge_Regional_College
-[Mister B]: http://www.misterb.com
-[LinkedIn]: http://www.linkedin.com/in/kevinsteinhardt
-[RNW]: http://en.wikipedia.org/wiki/Radio_Netherlands_Worldwide
-
-
 # What's the reason behind kevinsteinhardt.net?
 
 I've had a website for a good few years now. On moving to the Netherlands and with my previous site wilting from neglect, I thought it best that started from scratch and wrote a new site - to be both a portfolio of the projects I was working on at the time and a place to call "my own" online, where people could look me up and see what I was busy with.

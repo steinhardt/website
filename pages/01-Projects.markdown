@@ -1,5 +1,7 @@
 Welcome to kevinsteinhardt.net! This site is both a portfolio of my recent projects, and a place to find more information about me and what I get up to.
 
+My name is Kevin Steinhardt. I'm a graphic designer and ex-radio broadcast journalist from Cambridge in the United Kingdom. I studied design and radio broadcasting before moving here to the Netherlands in 2011. I work as one of two graphic designers at the fetish wholesale company [Mister B][] {{nsfw}}.
+
 You can find me online in *quite a few* places including (but not limited to): [Daytum][], [Facebook][], [Flickr][], [GitHub][], [Google Plus][], [LinkedIn][], [Pinboard][], [Soundcloud][], [Spotify][], [Tumblr][] and [Twitter][].
 
 
@@ -44,6 +46,7 @@ Just before I came to the Netherlands, I started writing the format documents fo
 [GitHub]: https://github.com/steinhardt
 [Google Plus]: https://plus.google.com/106171994730499817881
 [LinkedIn]: http://www.linkedin.com/in/kevinsteinhardt
+[Mister B]: http://www.misterb.com
 [Pinboard]: http://pinboard.in/u:steinhardt
 [Soundcloud]: http://soundcloud.com/esquandolas
 [Spotify]: http://open.spotify.com/user/steinhardt
