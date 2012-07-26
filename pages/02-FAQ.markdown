@@ -11,21 +11,11 @@ I've written [a blog post][How I ended up here] answering this question before, 
 
 I was studying radio at [Cambridge Regional College][CRC] and, being an avid cyclist, I wanted to experience the *far superior* cycle infrastructure in the Netherlands; Cambridge may be the cycling capital of the UK but it's far from perfect. Through my course, I managed to secure an internship at the Dutch international service [RNW][] (which has sadly been pretty much closed down since). My bike broke during the second or third week, and I ended up leaving it in the Netherlands which gave me a reason to go back a week later. Then things get complicated so head over to [this post][How I ended up here] to find out what happened next.
 
-[CRC]: http://en.wikipedia.org/wiki/Cambridge_Regional_College
-[How I ended up here]: http://ksteinhardt.wordpress.com/2012/04/08/the-netherlands-and-how-i-ended-up-here/
-
 
 <!-- FIXME Rewrite the answer to this question -->
 # What technical experience do you have?
 
 Well I've been a Mac and Linux user since 2005, which has to count towards something. I'm learning [Perl][] and [XLST][] at the moment and I've been using HTML/CSS for years now (though you can't really compare Perl and HTML *in any case*). On the audio side of things, I've had experience with [Dalet][] (what a terrible few months *that* was) and editors like Adobe Audition. I use the enterprise management software [Exact Globe][] like nobody's business at work too.
-
-
-[vim]: http://www.vim.org/
-[Dalet]: http://www.dalet.com/dalet-enterprise-edition
-[Perl]: http://en.wikipedia.org/wiki/Perl
-[XLST]: http://en.wikipedia.org/wiki/XSLT
-[Exact Globe]: http://www.exact.com/software-services/our-software
 
 
 # Can you actually speak Dutch?
@@ -42,11 +32,6 @@ The pages themselves are written in a markup language called [Markdown][]. These
 I'd like to (again) thank my good friend [Stephen Radford][] for helping me out with the code&iuml;ng of this site.
 
 
-[GitHub steinhardt/website]: https://github.com/steinhardt/website
-[Markdown]: http://en.wikipedia.org/wiki/Markdown
-[Stephen Radford]: http://www.stephenradford.me/
-
-
 <!-- this is always the LAST question! -->
 # I want to know more / I have a question which isn't in the FAQ.
 
@@ -56,4 +41,14 @@ If you don't want to use Formspring, send me a [tweet][Twitter] via Twitter or e
 
 
 [Formspring]: http://www.formspring.me/steinhardt
+[CRC]: http://en.wikipedia.org/wiki/Cambridge_Regional_College
+[How I ended up here]: http://ksteinhardt.wordpress.com/2012/04/08/the-netherlands-and-how-i-ended-up-here/
 [Twitter]: https://twitter.com/#!/steinhardt
+[GitHub steinhardt/website]: https://github.com/steinhardt/website
+[Markdown]: http://en.wikipedia.org/wiki/Markdown
+[Stephen Radford]: http://www.stephenradford.me/
+[vim]: http://www.vim.org/
+[Dalet]: http://www.dalet.com/dalet-enterprise-edition
+[Perl]: http://en.wikipedia.org/wiki/Perl
+[XLST]: http://en.wikipedia.org/wiki/XSLT
+[Exact Globe]: http://www.exact.com/software-services/our-software
