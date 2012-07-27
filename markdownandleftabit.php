@@ -60,11 +60,11 @@ function Markdown($text) {
 		$parser = new $parser_class;
 	}
 
-	$replace = array('{{nsfw}}' => '<span class="nsfw">NSFW</span>', '{{fixme}}' => 'Fix Me');
+	$replace = array('{{nsfw}}' => '<span class="nsfw">NSFW</span>', '{{left:\([a-z]*\)}}' => '<img class="thumb-left" src="\1" />');
 
 	foreach ($replace as $find => $val) {
 	
-		$text = str_replace($find, $val, $text);
+		$text = preg_replace($find, $val, $text);
 
 	}
 
