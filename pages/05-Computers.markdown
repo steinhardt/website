@@ -8,9 +8,9 @@ I try to keep them in sync with each other too. For example, I keep a single [vi
 Pronounced *mah-hill-kah*. `MAHLIKA` is the name of my 27-inch [Apple iMac][]. She is what I use for writing, coding and video conferencing with friends. She took over from my 2008 Mac mini (see below) as my primary home computer shortly after I bought her in 2012.
 
 **Manufacturer**: Apple.
-**Make and model**: unknown.[^mactracker] <!-- FIXME CHECK WITH MACTRACKER -->
+**Make and model**: iMac (27 inch, mid-2011).[^mactracker]
 **Operating system**: Mac OS X 10.8 "Mountain Lion".
-**Year of manufacturer**: 2012. <!-- FIXME CHECK! -->
+**Year of manufacturer**: 2012.
 **Clock rate (processor "speed")**: 2,7 GHz.
 **HDD/SDD capacity**: 1 TB.
 
