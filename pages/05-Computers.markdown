@@ -8,7 +8,7 @@ I try to keep them in sync with each other too. For example, I keep a single [vi
 Pronounced *mah-hill-kah*. `MAHLIKA` is the name of my 27-inch [Apple iMac][]. She is what I use for writing, coding and video conferencing with friends. She took over from my 2008 Mac mini (see below) as my primary home computer shortly after I bought her in 2012.
 
 **Manufacturer**: Apple.
-**Make and model**: iMac (27 inch, mid-2011).[^mactracker]
+**Make and model**: iMac (27 inch, mid-2011).
 **Operating system**: Mac OS X 10.8 "Mountain Lion".
 **Year of manufacturer**: 2012.
 **Clock rate (processor "speed")**: 2,7 GHz.
@@ -20,7 +20,7 @@ Pronounced *mah-hill-kah*. `MAHLIKA` is the name of my 27-inch [Apple iMac][]. S
 My Mac mini has been my computing companion since December 2008 and has remained faithful to me to this day. He is my current "media centre" (I *do* hate that phrase) and holds my many, many [Phish][] albums. He doesn't have a name name and I don't think it would appropriate to give him one any time soon, as he's due to be given to my parents (who desperately need a Mac of some variety) by the end of the year.
 
 **Manufacturer**: Apple.
-**Make and model**: Mac mini (Mid 2007).[^mactracker]
+**Make and model**: Mac mini (Mid 2007).
 **Operating system**: Mac OS X 10.5 "Leopard".
 **Year of manufacturer**: 2008.
 **Clock rate (processor "speed")**: 2,0 GHz.
@@ -60,6 +60,3 @@ I got given `DOLAP` by a friend in early 2012. He's *awfully* loud (~70 dB when 
 [fancontrol]: http://linux.die.net/man/8/fancontrol
 [pwmconfig]: http://linux.die.net/man/8/pwmconfig
 [vimrc file]: http://vimdoc.sourceforge.net/htmldoc/starting.html#vimrc
-
-
-[^mactracker]: Statistics taken, with love of course, from [Mactracker](http://mactracker.ca/).
