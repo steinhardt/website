@@ -6,10 +6,6 @@ This site is both a portfolio of my recent projects and a place to find more inf
 Current projects
 ================
 
-I'm working on a lot at the moment but I don't think of anything that I'm working on as a traditional "project". For me, a project is something like a graphic commission or a podcast (both of which I've done in the past; see below). 
-
-*Re*learning to touch type, only this time on a [Dvorak keyboard][Dvorak], is another ongoing project of mine. I can't remember what attracted me to the Dvorak layout but *it's certainly geeky* and it's also amusing to watch people struggle to use my computers - *hands off*! I'm progressing quite well with this - but with both my work and home keyboards "converted" (and, as a matter of fact, identical keyboard models), I have noticed a huge speed difference at home: typing at home is actually *slower*, though I think this is down to different desk arrangements more than anything else.
-
 
 <!-- ## National Diploma Radio coursework
 
