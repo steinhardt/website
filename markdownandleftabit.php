@@ -47,11 +47,11 @@ function Markdown($text) {
 		$parser = new $parser_class;
 	}
 
-	$replace = array('{{nsfw}}' => '<span class="nsfw">NSFW</span>', 'FIXME' => '');
+	$replace = array('{{nsfw}}' => '<span class="nsfw">NSFW</span>');
 
 	foreach ($replace as $find => $val) {
-	
-		$text = preg_replace($find, $val, $text);
+
+		$text = str_replace($find, $val, $text);
 
 	}
 
