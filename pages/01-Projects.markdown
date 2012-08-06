@@ -102,10 +102,11 @@ Just before I came to the Netherlands, I started writing the format documents fo
 Past projects
 =============
 
-<!-- ## Waffle
+## Waffle
 
 <span class="tag">status</span><span class="tag-right" style="background-color: grey;">shelved</span>
 
-FIXME! -->
+FIXME!
+
 
 <!-- FIXME Sort *all* projects on this page into a more logical order, but keep them within their respective sections -->
