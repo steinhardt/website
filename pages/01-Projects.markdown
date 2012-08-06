@@ -11,19 +11,16 @@ I'm working on a lot at the moment but I don't think of anything that I'm workin
 *Re*learning to touch type, only this time on a [Dvorak keyboard][Dvorak], is another ongoing project of mine. I can't remember what attracted me to the Dvorak layout but *it's certainly geeky* and it's also amusing to watch people struggle to use my computers - *hands off*! I'm progressing quite well with this - but with both my work and home keyboards "converted" (and, as a matter of fact, identical keyboard models), I have noticed a huge speed difference at home: typing at home is actually *slower*, though I think this is down to different desk arrangements more than anything else.
 
 
+<!-- ## National Diploma Radio coursework
 
-
-<!-- ####################################################################### -->
-
-
-## National Diploma Radio coursework
-
-... FIXME
+... FIXME -->
 
 
 ## Digitisation
 
-... FIXME <!-- of both prints and text; only occassionally -->
+FIXME <!-- write something here on your ongoing digitisation of film photographs -->
+
+FIXME <!-- and write something *here* about writing up old letters of archival purposes, which is still kind of digitisation -->
 
 
 ## Learning languages
@@ -61,15 +58,14 @@ Projects on the back burner
 I can't always keep up with the projects I start - *I'm only human* after all. I do occasionally postpone projects indefinitely, for a more suitable occasion.
 
 Just before I came to the Netherlands, I started writing the format documents for a travel writing expedition around the world. The list of places I'd end up visiting formed part of a larger list of articles complied using [Wikipedia's random article shortcut][Random Wikipedia]. The working title of this project is Withsel - from "<u>With</u> a <u>sel</u>ection from Wikipedia".
-<!-- FIXME Is "shortcut" a good word?! -->
 
 
-Past projects
+<!-- Past projects
 =============
 
 ## Waffle
 
-FIXME!
+FIXME -->
 
 
 <!-- FIXME Sort *all* projects on this page into a more logical order, but keep them within their respective sections -->
