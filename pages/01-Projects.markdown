@@ -11,28 +11,6 @@ I'm working on a lot at the moment but I don't think of anything that I'm workin
 *Re*learning to touch type, only this time on a [Dvorak keyboard][Dvorak], is another ongoing project of mine. I can't remember what attracted me to the Dvorak layout but *it's certainly geeky* and it's also amusing to watch people struggle to use my computers - *hands off*! I'm progressing quite well with this - but with both my work and home keyboards "converted" (and, as a matter of fact, identical keyboard models), I have noticed a huge speed difference at home: typing at home is actually *slower*, though I think this is down to different desk arrangements more than anything else.
 
 
-[Bash scripting]: http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-[Daytum]: http://daytum.com/steinhardt
-[Dutch]: http://en.wikipedia.org/wiki/Dutch_language
-[Dvorak]: http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
-[Facebook]: https://www.facebook.com/kevinsteinhardt
-[Flickr 2008]: http://www.flickr.com/photos/kevinsteinhardt/tags/portfolio2008/
-[Flickr 2011]: http://www.flickr.com/photos/kevinsteinhardt/tags/portfolio2011/
-[Flickr]: http://www.flickr.com/photos/kevinsteinhardt
-[GitHub]: https://github.com/steinhardt
-[Google Plus]: https://plus.google.com/106171994730499817881
-[Infrared]: http://en.wikipedia.org/wiki/Infrared_photography
-[Learning Dutch with newspapers]: http://www.flickr.com/photos/kevinsteinhardt/7434109770/
-[LinkedIn]: http://www.linkedin.com/in/kevinsteinhardt
-[Mister B]: http://www.misterb.com
-[My blog]: http://ksteinhardt.wordpress.com
-[Perl]: http://en.wikipedia.org/wiki/Perl
-[Pinboard]: http://pinboard.in/u:steinhardt
-[Random Wikipedia]: http://en.wikipedia.org/wiki/Help:Special_page#Tools
-[Soundcloud]: http://soundcloud.com/esquandolas
-[Spotify]: http://open.spotify.com/user/steinhardt
-[Tumblr]: http://esquandolas.tumblr.com
-[Twitter]: https://twitter.com/#!/steinhardt
 
 
 <!-- ####################################################################### -->
@@ -53,11 +31,13 @@ I'm working on a lot at the moment but I don't think of anything that I'm workin
 ... FIXME <!-- of both prints and text; only occassionally -->
 
 
-## Learning Dutch
+## Learning languages
 
 <span class="tag">status</span><span class="tag-right" style="background-color: green;">ongoing</span>
 
 And, although they're not really *projects* per se, I'm learning both [Dutch][] and [Perl][] - one, an illogical language known *well* only to the highest of scholars; and Perl. I plan on applying for Dutch citizenship *as soon as I can* and that's motivating me to [read and annotate newspapers][Learning Dutch with newspapers], watch television with the subtitles on, listen to the radio on the train to work and so on. The motivation behind learning *Perl* was that I was looking for a more powerful alternative to [bash scripting][]. <!-- FIXME split this up and put Perl-related things in the Perl section just below -->
+
+I'm also a self-confessed Icelandaphile. I *know* that Icelandic is a relatively difficult language to learn and that it won't be of much help to me commercially but *screw people who say that* and screw people who say I should "get Dutch under [my] belt first"!
 
 
 ## Learning Perl
@@ -107,3 +87,27 @@ Past projects
 FIXME! -->
 
 <!-- FIXME Sort *all* projects on this page into a more logical order, but keep them within their respective sections -->
+
+
+[Bash scripting]: http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+[Daytum]: http://daytum.com/steinhardt
+[Dutch]: http://en.wikipedia.org/wiki/Dutch_language
+[Dvorak]: http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
+[Facebook]: https://www.facebook.com/kevinsteinhardt
+[Flickr 2008]: http://www.flickr.com/photos/kevinsteinhardt/tags/portfolio2008/
+[Flickr 2011]: http://www.flickr.com/photos/kevinsteinhardt/tags/portfolio2011/
+[Flickr]: http://www.flickr.com/photos/kevinsteinhardt
+[GitHub]: https://github.com/steinhardt
+[Google Plus]: https://plus.google.com/106171994730499817881
+[Infrared]: http://en.wikipedia.org/wiki/Infrared_photography
+[Learning Dutch with newspapers]: http://www.flickr.com/photos/kevinsteinhardt/7434109770/
+[LinkedIn]: http://www.linkedin.com/in/kevinsteinhardt
+[Mister B]: http://www.misterb.com
+[My blog]: http://ksteinhardt.wordpress.com
+[Perl]: http://en.wikipedia.org/wiki/Perl
+[Pinboard]: http://pinboard.in/u:steinhardt
+[Random Wikipedia]: http://en.wikipedia.org/wiki/Help:Special_page#Tools
+[Soundcloud]: http://soundcloud.com/esquandolas
+[Spotify]: http://open.spotify.com/user/steinhardt
+[Tumblr]: http://esquandolas.tumblr.com
+[Twitter]: https://twitter.com/#!/steinhardt
