@@ -26,7 +26,7 @@ The main motivation behind learning Perl was that I was looking for a more power
 
 ## K Steinhardt
 
-<a href="http://ksteinhardt.wordpress.com">{{right:images/projects/ksteinhardt.jpg}}</a> My biggest writing project at the moment in terms of content *actually published* would have to be my (barely updated) shambles of a blog, [K Steinhardt][My blog]. I haven't been keeping up with my "more than one post per week" token target as of late, but it's not that I don't *want* to write - I *love* to write. I especially like to write about like to subjects I'm not so knowledge&auml;ble in; the research I do before such posts I like to see as a chance to learn something new that I wouldn't have considered learning before.
+<a href="http://ksteinhardt.wordpress.com"><img class="thumb-right" src="images/projects/ksteinhardt.jpg" /></a> My biggest writing project at the moment in terms of content *actually published* would have to be my (barely updated) shambles of a blog, [K Steinhardt][My blog]. I haven't been keeping up with my "more than one post per week" token target as of late, but it's not that I don't *want* to write - I *love* to write. I especially like to write about like to subjects I'm not so knowledge&auml;ble in; the research I do before such posts I like to see as a chance to learn something new that I wouldn't have considered learning before.
 
 
 ## kevinsteinhardt.net
