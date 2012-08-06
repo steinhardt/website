@@ -37,7 +37,7 @@
 						$pieces = explode('-', $value);
 						$value = $pieces[1];
 						if ($value == 'Projects') {
-							$html .= '<li><a href="/" title="'.$value.'">'.$value.'</a></li>';
+							$html .= '<li><a href="/" title="'.$value.'">'.$value.'</a></li>'; # Links page to '/' rather than '/01-projects'.
 						} else {
 							$html .= '<li><a href="'.strtolower($link).'" title="'.$value.'">'.$value.'</a></li>';
 						}
@@ -53,7 +53,7 @@
 				include ('markdownandleftabit.php');
 
 				if (!isset($_GET['page'])) {
-					$page = '01-Projects.markdown';
+					$page = '01-Projects.markdown'; # Loads 01-Projects.markdown if no page set
 				} else {
 					$page = $_GET['page'].'.markdown';
 				}
