@@ -78,7 +78,7 @@ The main motivation behind learning Perl was that I was looking for a more power
 
 <span class="tag">status</span><span class="tag-right" style="background-color: green;">ongoing</span>
 
-Then, of course, there's *this* project: kevinsteinhardt.net. I wanted to give my love of [Markdown][] somewhere to develop and fester; so I asked my friend [Stephen Radford][] to help me rejunvenate one of my old simplistic site designs into something fresh and Markdown-based.
+Then, of course, there's *this* project: kevinsteinhardt.net. I wanted to give my love of [Markdown][] somewhere to develop and fester; so I asked my friend [Stephen Radford][] to help me rejuvenate one of my old simplistic site designs into something fresh and Markdown-based.
 
 I explain briefly how the site works *behind the scenes* on the [FAQ page](./02-faq).
 
