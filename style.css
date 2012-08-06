@@ -17,6 +17,7 @@ p#tagline { font-family: 'Arial', sans-serif; font-size: 8pt; margin: 21px 0 0 0
 /* villages (e.g. a, h1, h2, span ) */
 a { color: #318ce7; border-bottom: 1px #318ce7 dashed; text-decoration: none; }
 h1 { font-family: 'Arial', sans-serif; font-size: 14pt; font-weight: bold; margin: 16px 0 4px 0; }
+h2 { font-family: 'Arial', sans-serif; font-size: 13pt; margin: 10px 0 4px 0; }
 span.nsfw { background-color: #b22222; color: #fff; padding: 0 2px 0 2px; font-size: 9pt; }
 span.tag { font-size: 80%; background-color: white; color: black; border: 1px solid black; padding: 0 1em 0 1em; }
 span.tag-right { font-size: 80%; border: 1px solid black; color: white; padding: 0 1em 0 1em; }
