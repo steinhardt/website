@@ -18,22 +18,15 @@ I'm working on a lot at the moment but I don't think of anything that I'm workin
 
 ## National Diploma Radio coursework
 
-<!-- **Status**: on hold. **Estimated time to completion**: god knows when! -->
-<span class="tag">status</span><span class="tag-right" style="background-color: orange;">on hold</span>
-
 ... FIXME
 
 
 ## Digitisation
 
-<span class="tag">status</span><span class="tag-right" style="background-color: orange;">on hold</span>
-
 ... FIXME <!-- of both prints and text; only occassionally -->
 
 
 ## Learning languages
-
-<span class="tag">status</span><span class="tag-right" style="background-color: green;">ongoing</span>
 
 I plan on applying for Dutch citizenship in the near future, which is motivating me to [read and annotate newspapers][Learning Dutch with newspapers], watch television with the subtitles on, and listen to the radio on the train to work; to learn as much Dutch as I can. 
 
@@ -42,21 +35,15 @@ I'm also a self-confessed Icelandaphile. I *know* that Icelandic is a relatively
 
 ## Learning Perl
 
-<span class="tag">status</span><span class="tag-right" style="background-color: green;">ongoing</span>
-
 The main motivation behind learning Perl was that I was looking for a more powerful alternative to [bash scripting][]. Following the UNIX philosophy "do one thing and do it well", I plan on writing short but powerful scripts; something Bash *could* do but it lacked features like text processing.
 
 
 ## K Steinhardt
 
-<span class="tag">status</span><span class="tag-right" style="background-color: green;">ongoing</span>
-
 <a href="http://ksteinhardt.wordpress.com"><img class="thumb-right" src="images/projects/ksteinhardt.jpg" /></a> My biggest writing project at the moment in terms of content *actually published* would have to be my (barely updated) shambles of a blog, [K Steinhardt][My blog]. I haven't been keeping up with my "more than one post per week" token target as of late, but it's not that I don't *want* to write - I *love* to write. I especially like to write about like to subjects I'm not so knowledge&auml;ble in; the research I do before such posts I like to see as a chance to learn something new that I wouldn't have considered learning before.
 
 
 ## kevinsteinhardt.net
-
-<span class="tag">status</span><span class="tag-right" style="background-color: green;">ongoing</span>
 
 Then, of course, there's *this* project: kevinsteinhardt.net. I wanted to give my love of [Markdown][] somewhere to develop and fester; so I asked my friend [Stephen Radford][] to help me rejuvenate one of my old simplistic site designs into something fresh and Markdown-based.
 
@@ -64,8 +51,6 @@ I explain briefly how the site works *behind the scenes* on the [FAQ page](./02-
 
 
 ## Experimental photography
-
-<span class="tag">status</span><span class="tag-right" style="background-color: orange;">on hold</span>
 
 <a href="http://www.flickr.com/photos/kevinsteinhardt"><img class="thumb-left" src="images/projects/photography.jpg" /></a> Since moving to the Netherlands, I've been taking fewer and fewer photographs *for leisure* but photography is none-the-less a great passion of mine. I'm *far* from being a professional photographer, but I studied photography at college for two years and both my sisters and my father are keen photographers too. I'd like to get back into doing more experimental photography, such as [infrared][], but I don't think this would be practical where I live at the moment.
 
