@@ -57,14 +57,14 @@ I'm working on a lot at the moment but I don't think of anything that I'm workin
 
 <span class="tag">status</span><span class="tag-right" style="background-color: green;">ongoing</span>
 
-And, although they're not really *projects* per se, I'm learning both [Dutch][] and [Perl][] - one, an illogical language known *well* only to the highest of scholars; and Perl. I plan on applying for Dutch citizenship *as soon as I can* and that's motivating me to [read and annotate newspapers][Learning Dutch with newspapers], watch television with the subtitles on, listen to the radio on the train to work and so on. The motivation behind learning *Perl* was that I was looking for a more powerful alternative to [bash scripting][]. <!-- FIXME split this up and put Perl-related things in the Perl section just below -->
+I plan on applying for Dutch citizenship in the near future, which is motivating me to [read and annotate newspapers][Learning Dutch with newspapers], watch television with the subtitles on, and listen to the radio on the train to work; to learn as much Dutch as I can. 
 
 
 ## Learning Perl
 
 <span class="tag">status</span><span class="tag-right" style="background-color: green;">ongoing</span>
 
-... FIXME
+The main motivation behind learning Perl was that I was looking for a more powerful alternative to [bash scripting][]. Following the UNIX philosophy "do one thing and do it well", I plan on writing short but powerful scripts; something Bash *could* do but it lacked features like text processing.
 
 
 ## K Steinhardt
