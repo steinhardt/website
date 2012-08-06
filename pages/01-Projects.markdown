@@ -12,13 +12,6 @@ Current projects
 ... FIXME -->
 
 
-## Digitisation
-
-FIXME <!-- write something here on your ongoing digitisation of film photographs -->
-
-FIXME <!-- and write something *here* about writing up old letters of archival purposes, which is still kind of digitisation -->
-
-
 ## Learning languages
 
 I plan on applying for Dutch citizenship in the near future, which is motivating me to [read and annotate newspapers][Learning Dutch with newspapers], watch television with the subtitles on, and listen to the radio on the train to work; to learn as much Dutch as I can. 
