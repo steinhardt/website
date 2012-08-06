@@ -47,7 +47,7 @@ function Markdown($text) {
 		$parser = new $parser_class;
 	}
 
-	$replace = array('{{nsfw}}' => '<span class="nsfw">NSFW</span>', '{{left:\([a-z]*\)}}' => '<img class="thumb-left" src="\1" />', '{{right:\([a-z]*\)}}' => '<img class="thumb-right" src="\1" />');
+	$replace = array('{{nsfw}}' => '<span class="nsfw">NSFW</span>', '{{left:\([a-z]*\)}}' => '<img class="thumb-left" src="\1" />', '{{right:([a-z]+)}}' => '<img class="thumb-right" src="\1" />');
 
 	foreach ($replace as $find => $val) {
 	
