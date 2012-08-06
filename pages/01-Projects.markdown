@@ -71,14 +71,14 @@ The main motivation behind learning Perl was that I was looking for a more power
 
 <span class="tag">status</span><span class="tag-right" style="background-color: green;">ongoing</span>
 
-... FIXME <!-- blog -->
+<a href="http://ksteinhardt.wordpress.com"><img class="thumb-right" src="images/projects/ksteinhardt.jpg" /></a> My only *real* project at the moment, aside from this website, is my blog [K Steinhardt][My blog] though I haven't been keeping up with my "more than one post per week" target as of late. I like writing (especially if it's only for me to read later)<!-- FIXME better way of saying this? --> and I like writing about a diverse range of subjects - not just subjects I know a lot about. For those subjects I'm *less* comfortable with, I do a little research before writing a post; I like to see this as a chance for me to learn something new that I wouldn't have learnt before.
 
 
 ## kevinsteinhardt.net
 
 <span class="tag">status</span><span class="tag-right" style="background-color: green;">ongoing</span>
 
-<a href="http://ksteinhardt.wordpress.com"><img class="thumb-right" src="images/projects/ksteinhardt.jpg" /></a> My only *real* project at the moment, aside from this website, is my blog [K Steinhardt][My blog] though I haven't been keeping up with my "more than one post per week" target as of late. I like writing (especially if it's only for me to read later)<!-- FIXME better way of saying this? --> and I like writing about a diverse range of subjects - not just subjects I know a lot about. For those subjects I'm *less* comfortable with, I do a little research before writing a post; I like to see this as a chance for me to learn something new that I wouldn't have learnt before.
+FIXME!
 
 
 ## Experimental photography
