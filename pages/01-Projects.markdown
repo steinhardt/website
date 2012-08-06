@@ -69,8 +69,6 @@ Past projects
 
 ## Waffle
 
-<span class="tag">status</span><span class="tag-right" style="background-color: grey;">shelved</span>
-
 FIXME!
 
 
