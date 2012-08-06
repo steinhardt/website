@@ -105,6 +105,7 @@ FIXME!
 [Infrared]: http://en.wikipedia.org/wiki/Infrared_photography
 [Learning Dutch with newspapers]: http://www.flickr.com/photos/kevinsteinhardt/7434109770/
 [LinkedIn]: http://www.linkedin.com/in/kevinsteinhardt
+[Markdown]: http://en.wikipedia.org/wiki/Markdown
 [Mister B]: http://www.misterb.com
 [My blog]: http://ksteinhardt.wordpress.com
 [Perl]: http://en.wikipedia.org/wiki/Perl
@@ -112,5 +113,6 @@ FIXME!
 [Random Wikipedia]: http://en.wikipedia.org/wiki/Help:Special_page#Tools
 [Soundcloud]: http://soundcloud.com/esquandolas
 [Spotify]: http://open.spotify.com/user/steinhardt
+[Stephen Radford]: http://www.stephenradford.me/
 [Tumblr]: http://esquandolas.tumblr.com
 [Twitter]: https://twitter.com/#!/steinhardt
