@@ -71,14 +71,16 @@ The main motivation behind learning Perl was that I was looking for a more power
 
 <span class="tag">status</span><span class="tag-right" style="background-color: green;">ongoing</span>
 
-<a href="http://ksteinhardt.wordpress.com"><img class="thumb-right" src="images/projects/ksteinhardt.jpg" /></a> My only *real* project at the moment, aside from this website, is my blog [K Steinhardt][My blog] though I haven't been keeping up with my "more than one post per week" target as of late. I like writing (especially if it's only for me to read later)<!-- FIXME better way of saying this? --> and I like writing about a diverse range of subjects - not just subjects I know a lot about. For those subjects I'm *less* comfortable with, I do a little research before writing a post; I like to see this as a chance for me to learn something new that I wouldn't have learnt before.
+<a href="http://ksteinhardt.wordpress.com"><img class="thumb-right" src="images/projects/ksteinhardt.jpg" /></a> My biggest writing project at the moment in terms of content *actually published* would have to be my (barely updated) shambles of a blog, [K Steinhardt][My blog]. I haven't been keeping up with my "more than one post per week" token target as of late, but it's not that I don't *want* to write - I *love* to write. I especially like to write about like to subjects I'm not so knowledge&auml;ble in; the research I do before such posts I like to see as a chance to learn something new that I wouldn't have considered learning before.
 
 
 ## kevinsteinhardt.net
 
 <span class="tag">status</span><span class="tag-right" style="background-color: green;">ongoing</span>
 
-FIXME!
+Then, of course, there's *this* project: kevinsteinhardt.net. I wanted to give my love of [Markdown][] somewhere to develop and fester; so I asked my friend [Stephen Radford][] to help me rejunvenate one of my old simplistic site designs into something fresh and Markdown-based.
+
+I explain briefly how the site works *behind the scenes* on the [FAQ page](./02-faq).
 
 
 ## Experimental photography
